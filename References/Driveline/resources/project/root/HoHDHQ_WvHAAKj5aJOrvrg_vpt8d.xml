@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Extension Location="Information">
+  <Info description="Project that models a vehicle driveline. Uses an Active Differential block to account for the power transfer from the transmission to axles. Includes a:&#10;- Kinematic Steering block to determine wheel angles&#10;- Brake hydraulic model"/>
+</Extension>

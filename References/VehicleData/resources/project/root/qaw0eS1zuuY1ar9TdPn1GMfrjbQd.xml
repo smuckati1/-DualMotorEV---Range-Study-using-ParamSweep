@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<File Location="Dictionaries">
+  <File Location="SiEngineCoreNA.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="HevMmVCU.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="CiEngineController.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="ElectricMachine3.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <DIR_SIGNIFIER Location="1">
+    <Info/>
+  </DIR_SIGNIFIER>
+  <File Location="VehScenario.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SiEngineController.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="Battery.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SiMappedEngine.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="ElectricMachine4.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SiDLEngine.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SiEngine.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="VehicleConfig.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="CiEngineCore.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="ElectricMachine1.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="Trailer.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="EvVCU.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="HevIpsVCU.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SimpleEngine.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="VirtualVehicleTemplate.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="PassVeh.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="FuelCellElectricSystem.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SiEngineCore.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="Drivetrain.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="BatteryDCDC.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="HevPxVCU.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="CiMappedEngine.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="Scenario.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="Driver.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="ElectricMachine2.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="Environment.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <Info/>
+  <File Location="SiDynoReferenceApplication.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="SiEngineCoreV.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+  <File Location="ElectricalCoolingSystem.sldd">
+    <Info>
+      <Category UUID="FileClassCategory">
+        <Label UUID="design"/>
+      </Category>
+    </Info>
+  </File>
+</File>
