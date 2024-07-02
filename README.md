@@ -55,7 +55,8 @@ This project can be cloned to your local computer. However, we also assume you w
 &nbsp;
 
 ## Recording
-(To be added in soon)
+System Simulation Study: https://www.mathworks.com/videos/how-cloud-based-virtual-vehicles-can-help-you-build-your-next-gen-software-1715775406041.html
+SDV Overview: 
 
 ## Contact
 Sameer K Muckatira
